@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Lectures\\2023-2024\\OOP STD\\ArenaGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\projects\\lectures\\2023-2024\\oop std\\arenagame\\arenagame\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E80BFE-A570-4211-AA0B-80A9083BDDDF}|ConsoleGame\\ConsoleGame.csproj|c:\\projects\\lectures\\2023-2024\\oop std\\arenagame\\consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E80BFE-A570-4211-AA0B-80A9083BDDDF}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\projects\\lectures\\2023-2024\\oop std\\arenagame\\arenagame\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\projects\\lectures\\2023-2024\\oop std\\arenagame\\arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|c:\\projects\\lectures\\2023-2024\\oop std\\arenagame\\arenagame\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68FBA48-D806-46D3-894B-D63344D743D9}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lectures\\2023-2024\\OOP STD\\ArenaGame\\ConsoleGame\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lectures\\2023-2024\\OOP STD\\ArenaGame\\ConsoleGame\\Program.cs",
+              "RelativeToolTip": "ConsoleGame\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:53:56.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arena.cs",
+              "DocumentMoniker": "C:\\Projects\\Lectures\\2023-2024\\OOP STD\\ArenaGame\\ArenaGame\\Arena.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Arena.cs",
+              "ToolTip": "C:\\Projects\\Lectures\\2023-2024\\OOP STD\\ArenaGame\\ArenaGame\\Arena.cs",
+              "RelativeToolTip": "ArenaGame\\Arena.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:43:59.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rogue.cs",
+              "DocumentMoniker": "C:\\Projects\\Lectures\\2023-2024\\OOP STD\\ArenaGame\\ArenaGame\\Rogue.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Rogue.cs",
+              "ToolTip": "C:\\Projects\\Lectures\\2023-2024\\OOP STD\\ArenaGame\\ArenaGame\\Rogue.cs",
+              "RelativeToolTip": "ArenaGame\\Rogue.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:31:59.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Projects\\Lectures\\2023-2024\\OOP STD\\ArenaGame\\ArenaGame\\Knight.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Knight.cs",
+              "ToolTip": "C:\\Projects\\Lectures\\2023-2024\\OOP STD\\ArenaGame\\ArenaGame\\Knight.cs",
+              "RelativeToolTip": "ArenaGame\\Knight.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:14:17.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Projects\\Lectures\\2023-2024\\OOP STD\\ArenaGame\\ArenaGame\\Hero.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Hero.cs",
+              "ToolTip": "C:\\Projects\\Lectures\\2023-2024\\OOP STD\\ArenaGame\\ArenaGame\\Hero.cs",
+              "RelativeToolTip": "ArenaGame\\Hero.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:07:48.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
